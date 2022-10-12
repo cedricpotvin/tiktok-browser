@@ -1,1 +1,1 @@
-# tiktok-browser
+# tiktok-browse
