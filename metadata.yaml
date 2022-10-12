@@ -1,5 +1,5 @@
 homepage: "https://vertexmarketingagency.com/"
 versions:
   # New Release
-  - sha: 5fb236d7bf4ffe0c00d84ebfa1bad1b2177ab352
+  - sha: 3178ab1a1fc9e1cb5699eb67519a9379df01dfda
     changeNotes: Initial Release.
