@@ -1,4 +1,4 @@
 # TikTok Browser Tracking Template For Google Tag Manager
 This template helps you to setup the TikTok tracking pixel on your website using Google Tag Manager.
 
-# Step 1
+#2 Step 1
